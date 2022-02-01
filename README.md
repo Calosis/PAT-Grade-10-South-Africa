@@ -14,7 +14,7 @@ Fully working projected use for my Grade 10 PAT.
 
 **Built using Delphi 10.3**
 
-*Feel free to take insparation or code to use in your own PAT. This defently is'nt my best work, so feel free to improve on it*
+*Feel free to take insparation or code to use in your own PAT. This defently is'nt my best work, so feel free to improve on it.*
 
 
 
