@@ -1,5 +1,5 @@
 # PAT-Grade-10-South-Africa
-Fully working projected use for my Grade 10 PAT.
+Fully working projected used for my Grade 10 PAT.
 *Department of Basic Education in South Africa*
 
 
